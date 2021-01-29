@@ -15,6 +15,13 @@
 				"template": "eps.source",
 				"urlTemplate": "eps.url"
 			}
+		},
+		{
+		"name" : "Home Page", 
+		"staticPage": {
+        		"urlTemplate": "eps.home",
+        		"template": "eps.url2"
+      		        }	
 		}
 
 	],
